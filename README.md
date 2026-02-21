@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, eu sou Mario Farrapo</h1>
 <h3 align="center">Apaixonado por ciência e análises de dados biomédicos</h3>
 
-- 🔭 Atualmente estou trabalhando com **Bioinformática**
+- 🔭 Atualmente, estou trabalhando com **Bioinformática**
 
-- 🌱 Atualmente, eu estou aprendendo **Python, SQL e Machine Learning**
+- 🌱 No momento, eu estou aprendendo **Python, SQL e Machine Learning**
 
-- 💬 Me pergunte sobre **Estatística e R**
+- 💬 Me pergunte sobre **Ciência de dados, Bioinformática e R**
 
 - 📄 Saiba sobre minhas experiências e habilidades em [www.linkedin.com/in/mario-farrapo-3981332a5](www.linkedin.com/in/mario-farrapo-3981332a5)
 
